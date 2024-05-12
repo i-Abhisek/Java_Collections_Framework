@@ -1,4 +1,4 @@
-package Cursors;
+
 // Cursors
  /* If you want to retrieve objects one by one from the collection, then we should go for Cursors */
  
